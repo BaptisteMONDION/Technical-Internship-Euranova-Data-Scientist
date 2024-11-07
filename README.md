@@ -1,6 +1,7 @@
-# Stage-technique-Euranova-DATA-Scientist
-Création d'une proposition d'audit liant hardware et software dans le but d'optimiser la consommation et les performances des technologies de l'IA des clients d'Euranova.
+# Technical Internship - Euranova - Data Scientist
 
-Lors de ce stage j'ai pu approfondir mes connaissances techniques sur les aspects de l'architecture du réseau, du software, du hardware et plus généralement du machine learning. Le fait de réaliser la structure des étapes qui composeront l'audit et la proposition commerciale m'a permis de gagner en compétences dans de nombreux domaines.
+Creation of an Audit Proposal Linking Hardware and Software to Optimize Energy Consumption and Performance of Euranova's AI Technologies
 
-Un grand merci à ma tutrice de stage Alice Martzloff et à tous les profils riches et variés que j'ai eu l'opportunité de rencontrer !
+During this internship, I was able to deepen my technical knowledge in areas such as network architecture, software, hardware, and more broadly, machine learning. Developing the structure for the steps that will make up the audit and the commercial proposal allowed me to gain expertise in various fields.
+
+A big thank you to my internship supervisor Alice Martzloff and to all the diverse and talented professionals I had the opportunity to meet!

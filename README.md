@@ -1,7 +1,14 @@
 # Technical Internship - Euranova - Data Scientist
 
-Creation of an Audit Proposal Linking Hardware and Software to Optimize Energy Consumption and Performance of Euranova's AI Technologies
+## Project: Creation of an Audit Proposal to Optimize Energy Consumption and Performance of AI Technologies
 
-During this internship, I was able to deepen my technical knowledge in areas such as network architecture, software, hardware, and more broadly, machine learning. Developing the structure for the steps that will make up the audit and the commercial proposal allowed me to gain expertise in various fields.
+During this internship, I had the opportunity to deepen my technical expertise across several domains, including:
 
-A big thank you to my internship supervisor Alice Martzloff and to all the diverse and talented professionals I had the opportunity to meet!
+- **Network Architecture**
+- **Software and Hardware Optimization**
+- **Machine Learning**
+
+My primary task involved designing the structure and key steps for an **audit proposal** that links hardware and software components to enhance **energy efficiency** and **performance** for Euranova’s AI technologies. Developing this audit and commercial proposal framework provided me with valuable experience in diverse technical areas and reinforced my understanding of cross-functional optimization strategies.
+
+A big thank you to my internship supervisor, Alice Martzloff, and to all the skilled professionals I had the pleasure of working with!
+
